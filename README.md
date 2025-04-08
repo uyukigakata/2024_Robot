@@ -8,4 +8,4 @@
 
 ### 公開
 - WebGL
-  
+  -build
